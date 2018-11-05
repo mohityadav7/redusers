@@ -1,2 +1,6 @@
 # redusers
-Simple node.js and redis app for user management (adding, searching and delete users).
+Simple node.js for user management (adding, searching and delete users).
+
+### Built with
+- Node.js
+- Redis (for database)

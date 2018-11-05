@@ -1,0 +1,21 @@
+{
+  "name": "redusers",
+  "version": "1.0.0",
+  "description": "simple redis user mgt app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "mohit yadav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^3.0.0",
+    "redis": "^2.8.0"
+  }
+}
